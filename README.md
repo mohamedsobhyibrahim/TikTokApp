@@ -8,3 +8,5 @@ Simple Tik Tok App Using ViewPager2
 - MediaPlayer
 
 # Implementation Before Starting
+
+<h2>build.gradle</h2
