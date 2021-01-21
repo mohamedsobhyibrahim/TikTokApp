@@ -10,4 +10,4 @@ Simple Tik Tok App Using ViewPager2
 # Implementation Before Starting
 
 <h4>build.gradle</h4>
-<img src="images/gradle.png" height="400" width="200"> 
+<img src="images/gradle.png" > 
