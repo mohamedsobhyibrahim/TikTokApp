@@ -19,4 +19,4 @@ Simple Tik Tok App Using ViewPager2
 
 
 <h4>AndroidManifest.xml</h4>
-<img src="manifest/style.png" > 
+<img src="images/manifest.png" > 
