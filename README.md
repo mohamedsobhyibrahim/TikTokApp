@@ -23,7 +23,7 @@ Simple Tik Tok App Using ViewPager2
 
 # Author
 
-Created by Mohamed Sobhy on 2020. Copyright © 2020 Mohamed Sobhy. [LinkedIn](https://www.linkedin.com/in/mohamed-sobhy-040958181/)
+Created by Mohamed Sobhy on 2021. Copyright © 2021 Mohamed Sobhy. [LinkedIn](https://www.linkedin.com/in/mohamed-sobhy-040958181/)
 
 # Environment
 
