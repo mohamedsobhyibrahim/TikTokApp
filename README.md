@@ -9,4 +9,4 @@ Simple Tik Tok App Using ViewPager2
 
 # Implementation Before Starting
 
-<h6>build.gradle</h6>
+<h4>build.gradle</h4>
